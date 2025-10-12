@@ -1,1 +1,1 @@
-https://homework-strap-max-smithsonian.trycloudflare.com
+https://api.trycloudflare.com
