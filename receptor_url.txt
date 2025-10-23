@@ -1,1 +1,1 @@
-https://regions-advertisements-far-textile.trycloudflare.com
+https://api.trycloudflare.com
